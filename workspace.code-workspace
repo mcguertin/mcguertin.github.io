@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../GitHub/boisalai.github.io"
+		},
+		{
+			"path": "../antora"
+		},
+		{
+			"path": "../../Projects/2021"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
